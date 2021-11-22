@@ -40,4 +40,9 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:HeediBoy/sfg-pet-clinic.git</developerConnection>
+    </scm>
+
 </project>
+
